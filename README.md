@@ -12,7 +12,7 @@ ng new
 ```
 ng serve
 ```
-##Crear Componente nuevo:
+## Crear Componente nuevo:
 ```
 ng g component (Lugar Donde lo quieras crear)/(Nombre Carpeta a crear)
 ```
