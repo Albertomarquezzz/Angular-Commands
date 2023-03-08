@@ -1,6 +1,6 @@
 # Angular-Commands
 
-install -g @angular/cli@latest
+npm install -g @angular/cli@latest
 
 ng new
 
